@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  selenium-build:
+  appium-build:
 
     runs-on: ubuntu-latest
 
