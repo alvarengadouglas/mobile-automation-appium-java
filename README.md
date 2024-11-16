@@ -75,6 +75,7 @@ Caso você queira rodar os testes com execução parelela, precisará incluir o 
 ```
 
 ![arquivo pom.xml](readme-assets/pom.png)
+
 Obs.: Para rodar em paralelo no BrowserStack, será necessário possuir mais de uma licença.<br>
 Exemplo: Caso você queria rodar 5 testes em paralelo, você precisará adquirir 5 licenças do App Automate.
 
