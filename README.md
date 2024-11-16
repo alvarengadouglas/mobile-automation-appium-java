@@ -1,4 +1,4 @@
-<h1 align="center">Automação Mobile com BrowserStack </h1>
+<h1 align="center">Automação Mobile com Appium</h1>
 <p align="center">
   <a href="https://unform.dev">
     <img src="https://media.licdn.com/dms/image/D4D12AQE8ntsaTOAfMg/article-cover_image-shrink_600_2000/0/1699980181329?e=2147483647&v=beta&t=S2JulgUp5cOZ6bG7zp0e_IczUh4obANiePFeVziAbmM" alt="Rest-Assured" width="500"/>
